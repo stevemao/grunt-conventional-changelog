@@ -13,7 +13,10 @@
   "keywords": [
     "grunt",
     "gruntplugin",
-    "changelog"
+    "conventional-changelog",
+    "conventional",
+    "changelog",
+    "log"
   ],
   "contributors": [
     {
